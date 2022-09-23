@@ -24,7 +24,12 @@ Users should be able to:
 
 ### Screenshots
 
-<strong>...</strong>
+![](/images/screenshots/desktop-screenshot.jpeg)<br>
+<strong>Desktop</strong><br>
+
+![](/images/screenshots/mobile-screenshot_1.jpeg)
+![](/images/screenshots/mobile-screenshot_2.jpeg)<br>
+<strong>Mobile</strong>
 
 ### Links
 
