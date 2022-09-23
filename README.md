@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [URL]()
+- Live Site URL: [https://zerescas.github.io/three-column-preview-card-component/](https://zerescas.github.io/three-column-preview-card-component/)
 
 ## My process
 
