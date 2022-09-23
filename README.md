@@ -32,15 +32,14 @@ Users should be able to:
 
 ## My process
 
-<strong>...</strong>
-
 ### Built with
 
-<strong>...</strong>
+- Semantic HTML5 markup
+- CSS custom properties and flexbox
 
 ### What I learned
 
-<strong>...</strong>
+Improve my HTML / CSS knowledges.
 
 ## Author
 
